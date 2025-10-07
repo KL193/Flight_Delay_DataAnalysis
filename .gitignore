@@ -5,3 +5,4 @@ __pycache__/
 .DS_Store
 *.ipynb_checkpoints
 data/dictionary.html
+data/flights_processed.csv
